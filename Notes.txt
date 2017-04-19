@@ -1,0 +1,34 @@
+General thoughts
+  I want to make a simple 1 player game. The user will control a hero who has some form of allomantic/ferumetic powers.
+  The main goal of this project is to get more experience with OpenGl and programming.
+  I am using C because it is the language I am most familiar with right now. (April 18, 2017)
+  
+Gameplay
+  Options
+    Side-Scroller(Mario): hero runs around and tries to get to the end without dying, and defeating little monsters.
+    RPG(Zelda): player wanders around a map that has many enimies to choose from along with opportunities to build powers and items.
+    Arena(Thing Thing Arena): hero trapped in room with enemies and goal is just survival.
+    
+  Demensions: 
+    2D:
+      Pro:
+        Easier to code up (I anticipate). 
+        Less taxing on hardware (Basically means I will not have to worry about making visuals work with timing)
+        I can make things look better.
+      Con:
+        Not as cool looking.
+    3D:
+      Pro:
+        Has the opportunity to look really cool
+        Could feel nice (exploring a 3D map is much cooler than 2D)
+      Con:
+        Could tax the hardware too much.
+        Might be very difficult to code up.
+        Might not actually look that good (I don't have 3d modeling experience (or a team of artists))
+        
+Coding
+  Layout
+    I'll break it up into different sections.
+    Game logic
+      Interpreting input
+    
