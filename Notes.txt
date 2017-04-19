@@ -28,7 +28,29 @@ Gameplay
         
 Coding
   Layout
-    I'll break it up into different sections.
     Game logic
       Interpreting input
+      
+          **It might be good to use the mouse, that way we can move around while a button is being pressed. Either that, or bring in input from a game controller. 
+      
+      Enemy movement
+      World interaction (picking up items, dropping items, selecting which vein to push against)
+      Character stats (HP, metal stores, etc..)
+      
+    Physics
+      Object collsion
+      Gravity
+      Knockback
+      
+    Graphics (this is one i know the least about right now)
+      Background
+      Hero
+      Enemies 
+      Camera movement
+      
+  Testing/Verification
+    I'll need to test each portion individually and prett rigorously. I'll set up a set of milestones to reach. I'll design the testbenches first.
+    
+    First determine how it will feel to the user before trying to code things up. Get a ood image of what I want.
+  
     
